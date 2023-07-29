@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi, I'm Mikołaj Biernacki, creator and publisher of analogue horror games on Steam.
 <!--
 **MikolajB1/MikolajB1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
